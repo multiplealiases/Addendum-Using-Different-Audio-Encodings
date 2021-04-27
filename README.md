@@ -1,5 +1,6 @@
-
 # Addendum: What happens if you use different audio encodings while importing?
+
+[(Index)](https://github.com/multiplealiases/Table-of-Contents-Databending-Series/blob/main/README.md)
 
 (This is an addendum to *[Required Reading](https://github.com/multiplealiases/Databending-In-Audacity-Required-Reading/blob/main/README.md)*. References will be made to later articles, but this is more a "look at the pretty pictures" article than a tutorial.)
 
