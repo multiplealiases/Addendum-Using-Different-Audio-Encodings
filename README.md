@@ -271,7 +271,7 @@ It's extremely subtle, but just like when we imported it into Audacity, it's suf
 
 ## Conclusion
 
-And that wraps up this medium-length diversion into different encodings and their effects. I'd suggest moving onto the next article, [*The Effect of Paulstretch on Planar RGB Images*](https://github.com/multiplealiases/Planar-RGB-and-Paulstretch/blob/main/README.md) 
+And that wraps up this medium-length diversion into different encodings and their effects. I'd suggest moving onto the next article, [*The Effect of Paulstretch on Planar RGB Images*](https://github.com/multiplealiases/Planar-RGB-and-Paulstretch/blob/main/README.md).
 
 ---
 
